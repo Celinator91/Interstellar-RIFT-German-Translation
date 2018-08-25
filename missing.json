@@ -1,66 +1,4 @@
-{
-  "Ammo Loader": [
-    100009,
-    100010,
-    100011
-  ],
-  "Admin Menu": [],
-  "Base": [],
-  "Cargo Teleporter": [
-    100032
-  ],
-  "Device Names": [
-    100010,
-    100011,
-    100012,
-    100013,
-    100014,
-    100015,
-    100016
-  ],
-  "Datacore": [],
-  "Components": [],
-  "Engineering Terminal": [],
-  "Extractor": [
-    100012
-  ],
-  "GRIP": [
-    100172,
-    100173,
-    100174,
-    100175,
-    100176,
-    100177,
-    100178,
-    100179,
-    100180,
-    100181,
-    100182,
-    100183,
-    100184,
-    100185,
-    100186,
-    100187,
-    100188,
-    100189,
-    100190,
-    100191,
-    100192,
-    100193,
-    100194,
-    100195,
-    100196,
-    100197
-  ],
-  "Hacking Suite": [
-    100015,
-    100016,
-    100017,
-    100018,
-    100019,
-    100020,
-    100021
-  ],
+
   "Holotable": [
     100059,
     100060,
@@ -68,8 +6,6 @@
     100062,
     100063
   ],
-  "InformationKiosk": [],
-  "Jukebox": [],
   "Miscellaneous": [
     100203,
     100204,
@@ -118,8 +54,6 @@
     100247,
     100248
   ],
-  "Mission Terminal": [],
-  "Refinery": [],
   "Resource Scanner": [
     100006,
     100007,
@@ -127,7 +61,6 @@
     100009,
     100010
   ],
-  "Molecular Assembler": [],
   "Rift Generator": [
     100033,
     100034,
@@ -146,16 +79,10 @@
     100026,
     100027
   ],
-  "Cockpit Screen": [],
   "Store-o-Tron": [
     100028,
     100029
   ],
-  "Sign": [],
-  "Teleporter": [],
-  "Terminal": [],
-  "3D Printer": [],
-  "Galactic Trade": [],
   "Loan Terminal": [
     100001,
     100002,
@@ -183,7 +110,6 @@
     100038,
     100039
   ],
-  "Warnings": [],
   "Ship Editor": [
     100167,
     100168,
@@ -342,8 +268,6 @@
     100246,
     100247
   ],
-  "Shipeditor_DeviceMode": [],
-  "Ship Editor Power Edit Mode": [],
   "Interior Props": [
     100332,
     100333,
@@ -497,8 +421,6 @@
     100060,
     100061
   ],
-  "Assembling Machine": [],
-  "Mission Drop Point": [],
   "Missile Launcher": [
     100002,
     100003,
@@ -610,8 +532,6 @@
     100080,
     100081
   ],
-  "Loading Screen": [],
-  "Cargo": [],
   "Datacore Terminal": [
     100003,
     100004,
@@ -626,15 +546,10 @@
   "Lights": [
     100001
   ],
-  "Hydrogen Tank": [],
-  "Refinery Messages": [],
-  "Service Depot": [],
   "Ship Editor terminal": [
     100005,
     100007
   ],
-  "Gravitational Anchor": [],
-  "Trade Station": [],
   "Nuclear Reactor": [
     100001,
     100002,
@@ -657,8 +572,6 @@
     100021,
     100022
   ],
-  "Tutorial": [],
-  "Mission Objectives": [],
   "Respawn Menu": [
     100001,
     100002,

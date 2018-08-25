@@ -406,7 +406,7 @@
       "100194": "Drohne -",
       "100195": "Hülle reparieren",
       "100196": "Ausstattung reparieren",
-      "100197": "Authorities"
+      "100197": "Authoritäten"
     },
     "Hacking Suite": {
       "100001": "Chipsatz einlegen",
@@ -422,7 +422,14 @@
       "100011": "Abbrechen",
       "100012": "{0}{3}{1}/{2} Min. verbleibend",
       "100013": "Keine freien Plätze",
-      "100014": "[{1}]{0}Chipsatz einfügen"
+      "100014": "[{1}]{0}Chipsatz einfügen",
+	  "100015": "Zugriff",
+      "100016": "Generator",
+      "100017": "Maschinen",
+      "100018": "Triebwerke",
+      "100019": "Lebenserhaltungssystem",
+      "100020": "Waffen",
+      "100021": "Schilde"
     },
     "Holotable": {
       "100001": "Filter",
