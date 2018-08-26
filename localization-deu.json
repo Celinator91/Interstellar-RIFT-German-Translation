@@ -490,10 +490,10 @@
       "100056": "Entfernung:",
       "100057": "Abwählen mit [\"{1}\"]",
       "100058": "Wählen mit [\"{1}\"]",
-	  "100059": "Wählen mit [\"{0}\"]",
+      "100059": "Wählen mit [\"{0}\"]",
       "100060": "Scrollen um mehr zu sehen",
       "100061": "Modifikatoren",
-      "100062": " Bitte wählen Sie ein System aus",
+      "100062": "Bitte wählen Sie ein System aus",
       "100063": "Distanz:"
     },
     "Information Kiosk": {
@@ -755,7 +755,7 @@
       "100210": "Verfügbare Nuklear Energie",
       "100211": "Nuklear:",
       "100212": "Verbrauch:",
-      "100213": "Generation:", 
+      "100213": "Generation:",
       "100214": "Kein Schiff ausgewählt",
       "100215": "Status: Online",
       "100216": "MAX",
@@ -790,7 +790,7 @@
       "100245": "{1}{0}Sitzen",
       "100246": "Energie CPU",
       "100247": "Waffen CPU",
-	  "100248": "CPU Verbrauch"
+      "100248": "CPU Verbrauch"
     },
     "Mission Terminal": {
       "100001": "WILLKOMMEN AUF:",
@@ -903,7 +903,10 @@
       "100009": "Generatorstatus: Online",
       "100010": "Deaktivieren",
       "100011": "Generatorstatus: Offline",
-      "100012": "Aktivieren"
+      "100012": "Aktivieren",
+      "100013": "Vom Cockpit abgeschaltet",
+      "100014": "Abgeschaltet",
+      "100015": "Kein CPU"
     },
     "Ship Editor Terminal": {
       "100001": "{0} aktualisiert",
@@ -929,7 +932,10 @@
       "100021": "Aktion wählen",
       "100022": "Schiff wählen",
       "100023": "Bauen",
-      "100024": "Zurück"
+      "100024": "Zurück",
+      "100025": "Du wirst den Kontakt zu {0} Drohne(n) verlieren wenn Du das Schiff modifizierst, docke sie zuerst an.",
+      "100026": "Ignorieren",
+      "100027": "Zurück"
     },
     "Cockpit Screen": {
       "100001": "Standardmunition",
@@ -2766,7 +2772,7 @@
     }
   },
   "GameVersion": "0.1.62",
-  "TranslationVersion": 4,
+  "TranslationVersion": 6,
   "Language": "deu",
   "Name": "German 0.1.62 (WIP)",
   "PublishedFileId": 845738552
