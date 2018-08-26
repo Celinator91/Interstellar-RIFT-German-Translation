@@ -423,7 +423,7 @@
       "100012": "{0}{3}{1}/{2} Min. verbleibend",
       "100013": "Keine freien Plätze",
       "100014": "[{1}]{0}Chipsatz einfügen",
-	  "100015": "Zugriff",
+      "100015": "Zugriff",
       "100016": "Generator",
       "100017": "Maschinen",
       "100018": "Triebwerke",
@@ -2715,8 +2715,8 @@
     }
   },
   "GameVersion": "0.1.62",
-  "TranslationVersion": 3,
+  "TranslationVersion": 4,
   "Language": "deu",
-  "Name": "German",
+  "Name": "German 0.1.62 (WIP)",
   "PublishedFileId": 845738552
 }
