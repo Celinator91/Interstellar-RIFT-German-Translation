@@ -995,7 +995,9 @@
       "100023": "Kaufen",
       "100024": "{0}{1} wirklich für {2} {3} kaufen?",
       "100026": "Kosten: {0}",
-      "100027": "Du hast schon ein Schiff!"
+      "100027": "Du hast schon ein Schiff!",
+	  "100028": "Fluchtkapsel(n): {0} / {1}",
+      "100029": "Kaufe {0} Fluchtkapsel(n) für {1}"
     },
     "Sign": {
       "100001": "Anzuzeigende Nachricht",
