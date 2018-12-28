@@ -846,7 +846,12 @@
       "100002": "Zurück",
       "100003": "Keine Sensoren installiert",
       "100004": "Scanstärke: {0}",
-      "100005": "Wenig Energie."
+      "100005": "Wenig Energie.",
+	  "100006": "Eingeschaltet",
+      "100007": "Ausgeschaltet",
+      "100008": "Filter",
+      "100009": "Zurück",
+      "100010": "Scanner ausschalten"
     },
     "Molecular Assembler": {
       "100001": "Wiederherstellung abgeschlossen",
@@ -889,7 +894,13 @@
       "100029": "Maximale Rift-Masse eingeben",
       "100030": "Rift öffnet in: {0} Sekunden",
       "100031": "Rift erzeugt!",
-      "100032": "Ausgewählt!"
+      "100032": "Ausgewählt!",
+	  "100033": "Leeren",
+      "100034": "Gebe Xanthium hinzu",
+      "100035": "Aktuelle Aufladung:",
+      "100036": "Benötigte Aufladung:",
+      "100037": "Rift Generator benötigt ein Upgrade",
+      "100038": "Bitte {0} hinzufügen"
     },
     "Shield Generator": {
       "100001": "Schildgenerator",
