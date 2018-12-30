@@ -847,7 +847,7 @@
       "100003": "Keine Sensoren installiert",
       "100004": "Scanstärke: {0}",
       "100005": "Wenig Energie.",
-	  "100006": "Eingeschaltet",
+      "100006": "Eingeschaltet",
       "100007": "Ausgeschaltet",
       "100008": "Filter",
       "100009": "Zurück",
@@ -895,7 +895,7 @@
       "100030": "Rift öffnet in: {0} Sekunden",
       "100031": "Rift erzeugt!",
       "100032": "Ausgewählt!",
-	  "100033": "Leeren",
+      "100033": "Leeren",
       "100034": "Gebe Xanthium hinzu",
       "100035": "Aktuelle Aufladung:",
       "100036": "Benötigte Aufladung:",
@@ -936,7 +936,7 @@
       "100014": "Verfügbar",
       "100015": "Differenz",
       "100016": "Persönlich",
-      "100017": "Momentane Vault: ",
+      "100017": "Momentane Vault:",
       "100018": "Suchen",
       "100019": "Editor",
       "100020": "Modifizieren",
@@ -1007,7 +1007,7 @@
       "100024": "{0}{1} wirklich für {2} {3} kaufen?",
       "100026": "Kosten: {0}",
       "100027": "Du hast schon ein Schiff!",
-	  "100028": "Fluchtkapsel(n): {0} / {1}",
+      "100028": "Fluchtkapsel(n): {0} / {1}",
       "100029": "Kaufe {0} Fluchtkapsel(n) für {1}"
     },
     "Sign": {
@@ -1374,7 +1374,27 @@
       "100163": "Nächster Fehler",
       "100164": "Trotzdem speichern",
       "100165": "Zum Schiffseditor zurückkehren",
-      "100166": "Fehler {0}/{1}"
+      "100166": "Fehler {0}/{1}",
+	  "100167": "Resourcenkosten neu berechnen",
+      "100168": "Warp Energie Voraussetzung: {0} pro Tick - Voll geladen: {1} pro Tick",
+      "100169": "Maximale Geschwindigkeit: {0} m/s",
+      "100170": "Maximale Wende Rate: {0}",
+      "100171": "Maximale Schield Energie: {0}",
+      "100172": "Schiffsmaße: {0}",
+      "100173": "Maximale Panzerung: {0}",
+      "100174": "Gehe zur Position",
+      "100175": "Checkliste: {0}",
+      "100176": "Erweitern",
+      "100177": "Aufgeben",
+      "100178": "Orbit Kamera",
+      "100179": "Fliegende Kamera",
+      "100180": "Kein Schiffsnamen - Speichern übersprungen.",
+      "100181": "Schiff gespeichert: ",
+      "100182": "Schiff wurde nicht geändert, oder speichern fehlgeschlagen.",
+      "100183": "Schiff speichern fehlgeschlagen, prüfe die Logs für weitere Informationen.",
+      "100184": "Maximale Hülle: {0}",
+      "100185": "(Bonus Panzerung der Hülle: {0})",
+      "100186": "Schiff exportieren fehlgeschlagen, kein Schiff zum exportieren ausgewählt."
     },
     "Economics": {
       "100001": "Credits",
@@ -2784,9 +2804,9 @@
       "100001": "Zerstöre das markierte Schiff"
     }
   },
-  "GameVersion": "0.1.62",
+  "GameVersion": "0.2.1",
   "TranslationVersion": 6,
   "Language": "deu",
-  "Name": "German 0.1.62 (WIP)",
+  "Name": "German 0.2.1 (WIP)",
   "PublishedFileId": 845738552
 }
