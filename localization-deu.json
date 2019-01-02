@@ -2802,13 +2802,13 @@
     },
     "Mission Objectives": {
       "100001": "Zerstöre das markierte Schiff",
-	  "100002": "Liefer Ressourcen nach",
+      "100002": "Liefer Ressourcen nach",
       "100003": "Liefer Ressourcen zur Station",
       "100004": "Zerstöre",
       "100005": "Beschütze ein Schiff",
       "100006": "Beschütze"
     },
-	"Respawn Menu": {
+    "Respawn Menu": {
       "100001": "Ohje, Du scheinst ot zu sein.",
       "100002": "Bitte wähle Dein Wiedereinstiegsort aus",
       "100003": "Molekularassembler hat nicht genug Energie",
@@ -2833,7 +2833,7 @@
       "100022": "In Benutzung",
       "100023": "Offline"
     },
-	"Strip Miner": {
+    "Strip Miner": {
       "100001": "Nicht genug Energie",
       "100002": "Objekt kann nicht abgebaut werden",
       "100003": "Laser Status",
@@ -2854,11 +2854,11 @@
     "Ship Stats": {
       "100001": "Statistikoptionen",
       "100002": "Gerätedetails"
-    },
+    }
   },
-  "GameVersion": "0.2.1",
-  "TranslationVersion": 8,
+  "GameVersion": "0.2.3.10",
+  "TranslationVersion": 10,
   "Language": "deu",
-  "Name": "German 0.2.1 (WIP)",
+  "Name": "German 0.2.3.10 (WIP)",
   "PublishedFileId": 845738552
 }
