@@ -2854,6 +2854,57 @@
     "Ship Stats": {
       "100001": "Statistikoptionen",
       "100002": "Gerätedetails"
+    },
+	"Mission Window": {
+      "100001": "EINGEHENDE NACHRICHT",
+      "100002": "Abweisen"
+    },
+	"ChatBox": {
+      "100001": "Zeilen",
+      "100002": "Skala",
+      "100003": "Dunkelheit"
+    },
+    "Escape Pod": {
+      "100001": "Bist Du sicher das Du die Fluchtkapsel starten möchtest? Dies kann nicht mehr rückgängig gemacht werden.",
+      "100002": "Starte Fluchtkapsel",
+      "100003": "Starte in {0}"
+    },
+	"ArmorGenerator": {
+      "100000": "Aktuell:",
+      "100001": "Max",
+      "100002": "Gerät lädt auf...",
+      "100003": "Unzureichende Stromversorgung...",
+      "100004": "Repariere Hülle...",
+      "100005": "Repariere Panzerung...",
+      "100006": "Repariere",
+      "100007": "Gerät kühlt ab für",
+      "100008": "Keine Nanobots gefunden...",
+      "100009": "Gerät Offline...",
+      "100010": "Keine CPU verfügbar..."
+    },
+	"StationList": {
+      "100000": "Stationen in: {0}",
+      "100001": "Klicke um {0} auszuwählen",
+      "100002": "Klicke um {0} abzuwählen"
+    },
+	"StationShield": {
+      "100000": "Aktiviere {0}",
+      "100001": "Online",
+      "100002": "Offline",
+      "100003": "Stationsschild",
+      "100004": "Aktivierung",
+      "100005": "Ortsinformationen",
+      "100006": "Gültiger Ort zur Aktivierung",
+      "100007": "Nicht nach genug am Stern",
+      "100008": "Entfernung: {0}",
+      "100009": "Kein Kristal eingelegt",
+      "100010": "Bist Du sicher das Du die Stationsschilde abschalten möchtest??",
+      "100011": "Aktivieren",
+      "100012": "Deaktivieren"
+    },
+	"CargoContainer": {
+      "100000": "Frachtcontainer",
+      "100001": "Suche"
     }
   },
   "GameVersion": "0.2.3.10",
